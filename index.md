@@ -1,7 +1,7 @@
-#Patrick Neudert, OMB5 - 260882 
+# Patrick Neudert, OMB5 - 260882 
 
-##Liste der Aufgaben 
+## Liste der Aufgaben 
 [Aufgabe 0]
 
-##Kontakt 
+## Kontakt 
 Patrick.neudert@hs-furtwangen.de
